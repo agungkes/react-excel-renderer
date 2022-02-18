@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import XLSX from 'xlsx';
+import * as XLSX from 'xlsx/xlsx.mjs'
 
 export class OutTable extends Component {
 
