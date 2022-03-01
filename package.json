@@ -1,6 +1,6 @@
 {
   "name": "@agungkes/react-excel-renderer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An addons to render and display excel sheets on webpage",
   "main": "build/index.js",
   "mode": "production",
