@@ -1,7 +1,7 @@
 {
-  "name": "react-excel-renderer",
-  "version": "1.1.3",
-  "description": "A react library to render and display excel sheets on webpage",
+  "name": "@agungkes/react-excel-renderer",
+  "version": "0.0.1",
+  "description": "An addons to render and display excel sheets on webpage",
   "main": "build/index.js",
   "mode": "production",
   "scripts": {
@@ -11,24 +11,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashishd751/react-excel-renderer.git"
+    "url": "git+https://github.com/agungkes/react-excel-renderer.git"
   },
   "keywords": [
-    "react",
-    "react-dom",
-    "excel",
-    "sheetjs",
-    "workbook",
-    "table"
+    "ldx",
+    "ldx-addons"
   ],
   "author": "Ashish Deshpande",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Muhammad Rafli Fadillah"
+    }
+  ],
   "bugs": {
-    "url": "https://github.com/ashishd751/react-excel-renderer/issues"
+    "url": "https://github.com/agungkes/react-excel-renderer/issues"
   },
-  "homepage": "https://github.com/ashishd751/react-excel-renderer#readme",
+  "homepage": "https://github.com/agungkes/react-excel-renderer#readme",
   "peerDependencies": {
-    "react": "^17.0.2"
+    "react": ">=17.0.0"
   },
   "dependencies": {
     "xlsx": "^0.14.1"
